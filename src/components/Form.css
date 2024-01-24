@@ -1,0 +1,22 @@
+.input1{
+    background-color: beige;
+    height:20px;
+    margin: 20px;
+   border-radius: 5%;
+    
+}
+
+.input2{
+    background-color: beige;
+    height:20px;
+    margin:20px;
+   
+}
+
+form{
+    text-align: center;
+    margin:100px;
+}
+h1{
+    text-align: center;
+}
